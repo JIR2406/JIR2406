@@ -51,9 +51,9 @@ Desarrollador en formación con interés en crear soluciones que integren **inte
 [![Google Cloud](https://img.shields.io/badge/Google-Cloud%20Foundations-4285F4?logo=googlecloud&logoColor=white&style=flat-square)](#)
 [![Coursera Python](https://img.shields.io/badge/Coursera-Análisis%20con%20Python-0056D2?logo=coursera&logoColor=white&style=flat-square)](#)
 [![Google DA](https://img.shields.io/badge/Google-Data%20Analytics-34A853?logo=google&logoColor=white&style=flat-square)](#)
+[![IBM DA](https://img.shields.io/badge/IBM-Data%20Analyst%20Professional-054ADA?logo=ibm&logoColor=white&style=flat-square)](#)
 [![Cisco Python 2](https://img.shields.io/badge/Cisco-Python%20Essentials%202-1BA0D7?logo=cisco&logoColor=white&style=flat-square)](#)
 [![Cisco Python 1](https://img.shields.io/badge/Cisco-Python%20Essentials%201-1BA0D7?logo=cisco&logoColor=white&style=flat-square)](#)
-
 
 ---
 
