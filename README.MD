@@ -47,9 +47,13 @@ Desarrollador en formación con interés en crear soluciones que integren **inte
 
 ## 🏅 Certificaciones
 
-[![Microsoft AI Fundamentals](https://img.shields.io/badge/Microsoft-AI__900-blue?logo=microsoft&style=flat-square)](https://learn.microsoft.com/es-es/certifications/ai-fundamentals/)
-[![OpenAI Generative AI](https://img.shields.io/badge/OpenAI-IA%20Generativa-8A2BE2?style=flat-square&logo=openai)](https://openai.com/)
-[![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-34A853?style=flat-square&logo=google)](https://www.coursera.org/professional-certificates/google-data-analytics)
+[![Red Hat Linux](https://img.shields.io/badge/RedHat-Linux%20Fundamentals-E60028?logo=redhat&logoColor=white&style=flat-square)](#)
+[![Google Cloud](https://img.shields.io/badge/Google-Cloud%20Foundations-4285F4?logo=googlecloud&logoColor=white&style=flat-square)](#)
+[![Coursera Python](https://img.shields.io/badge/Coursera-Análisis%20con%20Python-0056D2?logo=coursera&logoColor=white&style=flat-square)](#)
+[![Google DA](https://img.shields.io/badge/Google-Data%20Analytics-34A853?logo=google&logoColor=white&style=flat-square)](#)
+[![Cisco Python 2](https://img.shields.io/badge/Cisco-Python%20Essentials%202-1BA0D7?logo=cisco&logoColor=white&style=flat-square)](#)
+[![Cisco Python 1](https://img.shields.io/badge/Cisco-Python%20Essentials%201-1BA0D7?logo=cisco&logoColor=white&style=flat-square)](#)
+
 
 ---
 
