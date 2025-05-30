@@ -1,34 +1,33 @@
-<h1 align="center">👋 ¡Hola, soy Jair Garduño!</h1>
-<h3 align="center">🎓 Estudiante de Ingeniería en Sistemas Computacionales | Tecnológico de Toluca</h3>
+# 👋 ¡Hola, soy Jair Garduño!
+
+### 🎓 Estudiante de Ingeniería en Sistemas Computacionales  
+**📍 Tecnológico de Toluca**
 
 ---
 
-### 🧠 Acerca de mí
+## 🧠 Sobre mí
 
-Soy un desarrollador en formación con enfoque en **inteligencia artificial**, **análisis de datos** y **desarrollo de aplicaciones web y móviles**. Me apasiona aprender nuevas tecnologías y construir soluciones funcionales con impacto real.
-
----
-
-### 🔍 Actualmente estoy aprendiendo:
-
-- 🧠 **Inteligencia Artificial Generativa** (Microsoft Learn + OpenAI)
-- 📊 **Análisis de datos** con `pandas` y `Python`
-- 🗃️ **Bases de Datos NoSQL** como `MongoDB` y `Neo4j`
-- 🐧 **Linux** y administración de sistemas
+Soy desarrollador en formación con enfoque en **inteligencia artificial**, **análisis de datos**, y desarrollo de **aplicaciones web y móviles**.
 
 ---
 
-### 🚀 Algunos de mis proyectos:
+## 🔍 Actualmente estoy aprendiendo
 
-- 🛒 Aplicaciones web como **sistemas de puntos de venta**
-- 📦 **Sistemas de inventario** para el DIF
-- 😊 Plataformas web con **detección de emociones usando IA**
-- 📱 Aplicaciones móviles desarrolladas con **React Native**
+- 🧠 Inteligencia Artificial Generativa (Microsoft Learn + OpenAI)
+- 📊 Análisis de datos con pandas y Python
+- 🗃️ Bases de Datos NoSQL como MongoDB y Neo4j
+- 🐧 Linux y administración de sistemas
 
 ---
 
-### 🛠️ Tecnologías que uso frecuentemente:
+## 🚀 Proyectos destacados
 
-```text
-Python · pandas · JavaScript · React Native · MongoDB · Neo4j · Node.js
-MySQL · SQL · SQLite · Firebase · Linux · Git · OpenGL · TensorFlow
+- 🛒 Aplicaciones web como sistemas de punto de venta
+- 📦 Sistemas de inventario para el DIF
+- 😊 Plataforma web de detección de emociones usando IA
+- 📱 Apps móviles desarrolladas con React Native
+
+---
+
+## 🛠️ Tecnologías que uso frecuentemente
+
