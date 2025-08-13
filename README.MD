@@ -92,7 +92,14 @@ timeline
 </p>
 
 <!-- Banner inferior -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:8B5CF6&height=100&section=footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:8B5CF6&height=100&section=footer"
+    alt="Footer Banner"
+  />
+</p>
+
+<p align="center">
   <sub>⚡ Hecho con pasión ❤️, energía ☕ y sueños en código 💡</sub>
 </p>
