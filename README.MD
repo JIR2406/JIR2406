@@ -1,6 +1,6 @@
 <!-- Banner Superior -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:8B5CF6&height=200&section=header&text=👋%20Hola,%20soy%20Jair%20Garduño&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:8B5CF6&height=200&section=header&text=👋🏼%20Hola,%20soy%20Jair%20Garduño&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=40" />
 </p>
 
 <!-- Encabezado con animación de texto -->
@@ -70,7 +70,7 @@
 ```mermaid
 timeline
     title Trayectoria
-    2022 : Inicio de carrera en ISC
+    2018 : Inicio en mundo de TI
     2023 : Primeros proyectos en Python y SQL
     2024 : Proyectos con IA y Data Science
     2025 : Especialización en Machine Learning
