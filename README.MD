@@ -1,20 +1,24 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 # 👨‍💻 Jair Garduño Rodriguez  
-### 🎓 Estudiante de Ingeniería en Sistemas Computacionales  
+### 🎓 Estudiante de Ingeniería en Sistemas Computacionales & Data Science  
 **📍 Instituto Tecnológico de Toluca**
 
 ---
 
 ## 🧠 Sobre mí
 
-Desarrollador en formación con interés en crear soluciones que integren **inteligencia artificial**, **análisis de datos** y desarrollo de **aplicaciones web y móviles**. Me apasiona aprender, experimentar y compartir tecnología que impacte positivamente.
+Soy un entusiasta de la ciencia de datos y el análisis avanzado con experiencia práctica en Python, MongoDB y Power BI. Mi objetivo es transformar datos crudos en decisiones estratégicas mediante:
+- Limpieza y modelado de datos  
+- Análisis exploratorio y estadístico  
+- Construcción y despliegue de modelos predictivos  
+- Creación de dashboards interactivos para stakeholders  
 
 ---
 
@@ -36,12 +40,15 @@ Desarrollador en formación con interés en crear soluciones que integren **inte
 
 ---
 
-## 🛠️ Tecnologías que uso frecuentemente
+## 🔧 Habilidades Técnicas
 
-| Lenguajes           | Frameworks / Bases de Datos     | Herramientas / Otros                 |
-|---------------------|----------------------------------|--------------------------------------|
-| Python · Java · R   | React Native · MongoDB · Neo4j   | Git · Linux · Firebase · TensorFlow  |
-| JavaScript · SQL    | MySQL · SQLite                   | OpenGL · pandas · NumPy              |
+| Categoría              | Herramientas y Tecnologías                             |
+|------------------------|--------------------------------------------------------|
+| Lenguajes              | Python · JavaScript · SQL                              |
+| Data & ML              | pandas · NumPy · scikit-learn · matplotlib · seaborn    |
+| Bases de Datos         | MongoDB · MySQL ·  Oracle                                      |
+| Visualización & BI     | Power BI · Plotly · Dash                               |
+| Infraestructura & Dev  | Linux · Git · Docker · Azure ML · Google Cloud AI      |
 
 ---
 
@@ -59,4 +66,12 @@ Desarrollador en formación con interés en crear soluciones que integren **inte
 
 ## 📫 Contacto
 
-📂 [Portafolio](https://jir2406.github.io/) · 🐙 [GitHub](#) · 📧 jairgarduno47@gmail.com  
+- 🌐 Portafolio: https://jir2406.github.io/  
+- 🐙 GitHub: https://github.com/JIR2406  
+- ✉️ Correo: jairgarduno47@gmail.com  
+
+---
+
+<p align="center">
+  <sub>Hecho con ❤️ y muchos bytes de café ☕</sub>
+</p>
