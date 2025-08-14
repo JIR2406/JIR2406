@@ -111,10 +111,16 @@
 ```mermaid
 timeline
     title Trayectoria
-    2018 : Inicio en mundo de TI
-    2023 : Primeros proyectos en Python y SQL
-    2024 : Proyectos con IA y Data Science
-    2025 : Especialización en Machine Learning
+    2018 : Inicio en el mundo de TI
+    2021 Jul : Titulación como Técnico en Programación
+    2021 Aug : Ingreso a la Universidad (ITTol)
+    2022 : Programa de Innovación Virtual de Microsoft (IA con Azure)
+    2022 Dec : Ingreso a Inroads como Inroader
+    2023 Feb : Challenge de Aprendizaje No Supervisado (Microsoft)
+    2023 : Aprendizaje autodidacta de Python, SQL y R | Inicio en análisis de datos | Automatizaciones en Nestlé (Python)
+    2024 : Proyectos adicionales de IA | Desarrollo de proyecto para el DIF
+    2025 Jun : Programa de reconocimiento de emociones (Adolfo López Mateos) completado
+    2025 : Último año de la carrera | Certificaciones en Ciencia de Datos | Ingreso a Oracle Next Education Gen 9
 ```
 ## 💡 Soft Skills
 - 🤝 Trabajo en equipo  
