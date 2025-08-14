@@ -117,9 +117,9 @@ timeline
     2022 : Programa de Innovación Virtual de Microsoft (IA con Azure)
     2022 Dec : Ingreso a Inroads como Inroader
     2023 Feb : Challenge de Aprendizaje No Supervisado (Microsoft)
-    2023 : Aprendizaje autodidacta de Python, SQL y R | Inicio en análisis de datos | Automatizaciones en Nestlé (Python)
+    2023 : Aprendizaje de Python, SQL y R | Inicio en análisis de datos | Automatizaciones en Nestlé (Python)
     2024 : Proyectos adicionales de IA | Desarrollo de proyecto para el DIF
-    2025 Jun : Programa de reconocimiento de emociones (Adolfo López Mateos) completado
+    2025 Jun : Programa de reconocimiento de emociones (Hospital Adolfo López Mateos) completado
     2025 : Último año de la carrera | Certificaciones en Ciencia de Datos | Ingreso a Oracle Next Education Gen 9
 ```
 ## 💡 Soft Skills
