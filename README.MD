@@ -44,15 +44,56 @@
 - 📱 **Apps móviles** educativas y de salud con React Native  
 
 ---
-
 ## 🏅 Certificaciones
+<!-- ===================== 2025 ===================== -->
+<p align="center" style="margin-bottom:4px;">
+  <img src="https://img.shields.io/badge/2025-RECIENTE-24292F?style=flat&labelColor=24292F&color=24292F" alt="Año 2025 (reciente)" />
+</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/RedHat-Linux%20Fundamentals-E60028?style=for-the-badge&logo=redhat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google-Cloud%20Foundations-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coursera-Análisis%20con%20Python-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google-Data%20Analytics-34A853?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IBM-Data%20Analyst-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco-Python%20Essentials%202-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <a href="#" title="Red Hat - Linux Fundamentals">
+    <img src="https://img.shields.io/badge/Red%20Hat-Linux%20Fundamentals-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Certificación: Red Hat - Linux Fundamentals" />
+  </a>
+  <a href="#" title="MongoDB - Introduction to MongoDB">
+    <img src="https://img.shields.io/badge/MongoDB-Introduction%20to%20MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Certificación: MongoDB - Introduction to MongoDB" />
+  </a>
+  <a href="#" title="Fundamentos de IA Generativa (Microsoft)">
+    <img src="https://img.shields.io/badge/Microsoft-Fundamentos%20IA%20Generativa-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Certificación: Fundamentos de IA Generativa (Microsoft)" />
+  </a>
+  <a href="#" title="DataCamp - Bootcamp de Ciencia de Datos">
+    <img src="https://img.shields.io/badge/DataCamp-Bootcamp%20Ciencia%20de%20Datos-00D27A?style=for-the-badge&logo=datacamp&logoColor=white" alt="Certificación: DataCamp - Bootcamp de Ciencia de Datos" />
+  </a>
+</p>
+
+<!-- ===================== 2024 ===================== -->
+<p align="center" style="margin:18px 0 4px;">
+  <img src="https://img.shields.io/badge/2024-%20-24292F?style=flat&labelColor=24292F&color=24292F" alt="Año 2024" />
+</p>
+<p align="center">
+  <a href="#" title="Google - Fundamentos de la gestión de proyectos (dic. 2024)">
+    <img src="https://img.shields.io/badge/Google-Fundamentos%20Gestión%20de%20Proyectos-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Certificación: Google - Fundamentos de la gestión de proyectos (dic. 2024)" />
+  </a>
+  <a href="#" title="Google - Iniciación del proyecto (dic. 2024)">
+    <img src="https://img.shields.io/badge/Google-Iniciación%20del%20Proyecto-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Certificación: Google - Iniciación del proyecto (dic. 2024)" />
+  </a>
+  <a href="#" title="Cisco - CCNA: Introducción a las redes (nov. 2024)">
+    <img src="https://img.shields.io/badge/Cisco-CCNA%20Introducción%20a%20las%20Redes-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Certificación: Cisco - CCNA: Introducción a las redes (nov. 2024)" />
+  </a>
+</p>
+
+<!-- ===================== 2023 ===================== -->
+<p align="center" style="margin:18px 0 4px;">
+  <img src="https://img.shields.io/badge/2023-%20-24292F?style=flat&labelColor=24292F&color=24292F" alt="Año 2023" />
+</p>
+<p align="center">
+  <a href="#" title="Google Cloud Computing Foundations">
+    <img src="https://img.shields.io/badge/Google%20Cloud-Computing%20Foundations-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Certificación: Google Cloud Computing Foundations" />
+  </a>
+  <a href="#" title="Google - Análisis de Datos (Data Analytics)">
+    <img src="https://img.shields.io/badge/Google-Análisis%20de%20Datos-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Certificación: Google - Análisis de Datos" />
+  </a>
+  <a href="#" title="Cisco - Python Essentials 1 y 2">
+    <img src="https://img.shields.io/badge/Cisco-Python%20Essentials%201%20y%202-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Certificación: Cisco - Python Essentials 1 y 2" />
+  </a>
 </p>
 
 ---
